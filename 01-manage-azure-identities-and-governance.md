@@ -60,10 +60,10 @@ Key Notes
 ![alt text](image-5.png)
 ### Manage costs by using alerts, budgets, and Azure Advisor recommendations
 - Notes:
-
+![alt text](image-6.png)
 ### Configure management groups
 - Notes:
-
+![alt text](image-7.png)
 ---
 
 ## 🔑 Key Takeaways
