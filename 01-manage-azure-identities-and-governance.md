@@ -15,7 +15,8 @@
 
 ### Manage licenses in Microsoft Entra ID
 - Notes:
-
+![alt text](image.png)
+Key Notes 
 ### Manage external users
 - Notes:
 
@@ -28,7 +29,7 @@
 
 ### Manage built-in Azure roles
 - Notes:
-
+![alt text](image-1.png)
 ### Assign roles at different scopes
 - Notes:
 
@@ -41,19 +42,22 @@
 
 ### Implement and manage Azure Policy
 - Notes:
+![alt text](image-2.png)
 
 ### Configure resource locks
 - Notes:
+![alt text](image-3.png)
 
 ### Apply and manage tags on resources
 - Notes:
 
 ### Manage resource groups
 - Notes:
+![alt text](image-4.png)
 
 ### Manage subscriptions
 - Notes:
-
+![alt text](image-5.png)
 ### Manage costs by using alerts, budgets, and Azure Advisor recommendations
 - Notes:
 
