@@ -64,10 +64,10 @@
 ![alt text](image-20.png)
 ### Configure blob lifecycle management
 - Notes:
-
+![alt text](image-21.png)
 ### Configure blob versioning
 - Notes:
-
+![alt text](image-22.png)
 ---
 
 ## 🔑 Key Takeaways
