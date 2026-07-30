@@ -26,3 +26,34 @@ option D
 option A
 ![alt text](image-15.png)
 Option D
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+option A
+![alt text](image-18.png)
+Option A
+![alt text](image-19.png)
+Option D
+![alt text](image-20.png)
+option B
+![alt text](image-21.png)
+Option D
+![alt text](image-22.png)
+option A
+![alt text](image-23.png)
+Option A
+![alt text](image-24.png)
+not sure
+![alt text](image-25.png)
+option C
+![alt text](image-26.png)
+option B 
+![alt text](image-27.png)
+ResourceGroup Name and Complete
+![alt text](image-28.png)
+notsure
+![alt text](image-29.png)
+option D
+![alt text](image-30.png)
+Option C.
+

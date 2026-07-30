@@ -3,3 +3,5 @@
 
 ## Backup 
 ![alt text](image-8.png)
+## User Administartion
+users are stored in tenant level not in subscription.
